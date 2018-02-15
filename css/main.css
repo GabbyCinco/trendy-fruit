@@ -37,3 +37,7 @@ html {
 .persimmon {
   background-color: #e86033;
 }
+
+.persimmon h2 {
+  font-family: 'Comfortaa', cursive;
+}
